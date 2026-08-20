@@ -1,6 +1,6 @@
 {
-  "enable_promotions": false,
-  "enable_manual_checkout": false,
+  "enable_promotions": true,
+  "enable_manual_checkout": true,
   "announcement_title": "Creator Toolkit & Hub",
   "announcement_body": "Access your 8 essential social media growth tools, hashtag generators, and bio formatters offline."
 }
